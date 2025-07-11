@@ -1,5 +1,6 @@
 from tic_tac_toe import TicTacToe
-from typing import Optional, List, Self
+from typing import Optional, List
+from typing_extensions import Self
 import copy
 
 class MinimaxAI:#assuming 1 is AI and -1 is Playuer

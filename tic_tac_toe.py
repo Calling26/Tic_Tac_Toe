@@ -1,4 +1,5 @@
-from typing import Optional, List, Self
+from typing import Optional, List
+from typing_extensions import Self
 import copy
 import random
 
